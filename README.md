@@ -15,19 +15,18 @@ Through 5 hands-on labs, I learned crucial skills including:
 The playground interface is highly user-friendly while comparing experiments. Also, tracking and observing - spans and traces gave a whole new ability to evaluate each aspect of Agent lifecycle. 
 
 
+###  Decomposing agents 
+-  Lab 1: Building your agent
+  
+###  Observing agents 
+-  Lab 2: Tracing your agent
+  
+###  Adding router and skill evaluations 
+-  Lab 3: Adding router and skill evaluations
+  
+###  Adding trajectory evaluations 
+-  Lab 4: Adding trajectory evaluations
+  
+###  Adding structure to your evaluations 
+-  Lab 5: Adding structure to your evaluations
 
-- **L0**: Introduction
-- **L1**: Evaluation in the time of LLMs 
-- **L2**: Decomposing agents 
-- **L3**: Lab 1: Building your agent
-- **L4**: Observing agents 
-- **L5**: Lab 2: Tracing your agent 
-- **L6**: Adding router and skill evaluations 
-- **L7**: Lab 3: Adding router and skill evaluations 
-- **L8**: Adding trajectory evaluations 
-- **L9**: Lab 4: Adding trajectory evaluations 
-- **L10**: Adding structure to your evaluations 
-- **L11**: Lab 5: Adding structure to your evaluations 
-- **L12**: Improving your LLM-as-a-judge 
-- **L13**: Monitoring agents
-- **L14**: Conclusion
